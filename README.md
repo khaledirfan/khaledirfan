@@ -1,4 +1,4 @@
-[![MasterHead](images/banner.png)
+![MasterHead](images/banner.png)
 
 # 👨‍ About Me:
 
